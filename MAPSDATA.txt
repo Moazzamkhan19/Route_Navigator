@@ -1,0 +1,21 @@
+18
+wapda valencia 12
+wapda OPF 4
+wapda NICHS 2
+wapda LakeCity 10
+wapda JoharTown 12
+OPF LDA 7
+OPF LakeCity 14
+LakeCity Bahria 4
+LakeCity TNT 7
+TNT JohatTown 16
+valencia NFC 4
+NFC UET 2
+NFC NICHS 8
+NICHS JoharTown 12
+UET FaisalTown 17
+FaisalTown JoharTown 5
+JoharTown ModelTown 5
+ModelTown Gulberg 4
+
+
